@@ -1,7 +1,7 @@
 👋 Hi, I'm @kclaudeeager
 🎓 Currently pursuing a Master of Science in Engineering Artificial Intelligence (MsEAI) at Carnegie Mellon University Africa (CMU Africa), with a focus on Natural Language Processing (NLP) and Computer Vision.
 👀 My region of interests includes NLP and Computer Vision, and I'm also passionate about software engineering, mobile app development, and web development.
-💼 Experienced in software development with proficiency in Java, Python, and C++. I have hands-on experience in web development using React for frontend development.
+💼 Experienced in software development with proficiency in Java, Python, and C++. I have hands-on experience in web development using React for front-end development.
 📱 Additionally, I have experience in mobile app development for both iOS (Swift) and Android, as well as cross-platform development.
 🚀 Furthermore, I'm familiar with backend development using Spring Boot for Java-based applications and Node.js for server-side JavaScript development.
 🌱 I'm constantly exploring new avenues to expand my skills and knowledge.
